@@ -3621,7 +3621,7 @@ game = game()
 
 gridPop(sector[4][4])
 
-#intro()
+intro()
 discoDisplay()
 
 cmd_dict = {
